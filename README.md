@@ -1,4 +1,4 @@
-# Materiały do przedmiotu Programowanie Obiektowe (część teoretyczna)
+# Programowanie Obiektowe (część teoretyczna) - Materiały do przedmiotu.
 
 prowadzący - inż. Mateusz Lewicki
 
